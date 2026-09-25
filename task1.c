@@ -4,7 +4,7 @@
 void combos() {
 
     int y, p, v, t, x, c, s;
-    
+    for (y = )
 
 
 
